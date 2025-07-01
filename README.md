@@ -1,0 +1,2 @@
+# Telangana-ClimateScope-A-Power-BI-Climate-Intelligence-Dashboard
+Telangana ClimateScope is an interactive Power BI dashboard that analyzes 4 years (2021–2024) of weather data across Telangana. It visualizes trends in rainfall, temperature, humidity, and wind speed at the district and mandal levels to support climate-resilient decision-making in agriculture, infrastructure, and disaster management.
