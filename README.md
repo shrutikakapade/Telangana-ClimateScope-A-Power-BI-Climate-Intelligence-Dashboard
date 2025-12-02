@@ -117,5 +117,9 @@ Telangana ClimateScope is more than just a dashboard—it is a decision-support 
 </p>
 <blockquote>“Understanding yesterday’s weather is the key to securing tomorrow’s resilience.”</blockquote>
 
+
+
+
+
 </body>
 </html>
