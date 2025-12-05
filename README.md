@@ -27,7 +27,7 @@ This project leverages Power BI to explore and analyze weather data from 2021 to
 
 <hr>
 
-<h2>📊 Key Analysis Sections and Visual Titles</h2>
+<h2>📊 Key Analysis Sections and Visual Titles with Dashboard Snapshot</h2>
 
 <h3>🌧️ Rainfall Analysis</h3>
 <ul>
@@ -39,6 +39,11 @@ This project leverages Power BI to explore and analyze weather data from 2021 to
   <li>Top Rainfall-Receiving Districts in Telangana</li>
   <li>Monthly Rainfall Trends Across Mandals</li>
 </ul>
+<img width="1374" height="773" alt="Screenshot 2025-12-05 221903" src="https://github.com/user-attachments/assets/4e1ba77e-e05d-4f16-ab51-a56f87c61aee" />
+
+<h4>Here is a slicer panel at left side</h4>
+<img width="1373" height="802" alt="Screenshot 2025-12-05 221921" src="https://github.com/user-attachments/assets/a4a17ab5-f78e-4af8-a7e8-efc7f7820463" />
+
 
 <h3>🌡️ Temperature Insights</h3>
 <ul>
@@ -52,6 +57,10 @@ This project leverages Power BI to explore and analyze weather data from 2021 to
   <li>Average of Maximum Temperature by District</li>
 </ul>
 
+<img width="1373" height="773" alt="Screenshot 2025-12-05 221937" src="https://github.com/user-attachments/assets/b3275d2b-3607-412b-96b3-40b0260de474" />
+
+
+
 <h3>💧 Humidity Patterns</h3>
 <ul>
   <li>Average of Maximum Humidity (%)</li>
@@ -62,6 +71,8 @@ This project leverages Power BI to explore and analyze weather data from 2021 to
   <li>Trend Analysis of Minimum and Maximum Humidity Across Years</li>
   <li>Sum of Maximum Humidity by District</li>
 </ul>
+<img width="1374" height="772" alt="Screenshot 2025-12-05 221951" src="https://github.com/user-attachments/assets/548e824e-e2a3-4d9a-8391-c5b62ce102e6" />
+
 
 <h3>💨 Wind Speed Analysis</h3>
 <ul>
@@ -72,6 +83,11 @@ This project leverages Power BI to explore and analyze weather data from 2021 to
   <li>Extreme Wind Speed Events Across Districts</li>
   <li>Wind Speed Patterns and Outliers Across Districts</li>
 </ul>
+
+
+<img width="1374" height="771" alt="Screenshot 2025-12-05 222008" src="https://github.com/user-attachments/assets/be7ca5a0-e576-4532-a6d0-5ceabc77cd51" />
+
+
 
 <hr>
 
@@ -116,6 +132,11 @@ This project leverages Power BI to explore and analyze weather data from 2021 to
 Telangana ClimateScope is more than just a dashboard—it is a decision-support system that translates raw climate data into powerful, actionable intelligence for a sustainable and prepared future.
 </p>
 <blockquote>“Understanding yesterday’s weather is the key to securing tomorrow’s resilience.”</blockquote>
+
+
+
+
+
 
 
 
