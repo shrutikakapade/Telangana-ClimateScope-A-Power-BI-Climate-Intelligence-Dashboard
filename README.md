@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>🌦️ Telangana ClimateScope: A Power BI Climate Intelligence Dashboard</h1>
+<h1>🌦️ Telangana ClimateScope: A Power BI Climate Intelligence Dashboard </h1>
 
 
 
